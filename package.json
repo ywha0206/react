@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "scss": "^0.2.4",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
